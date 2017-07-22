@@ -1,0 +1,6 @@
+framework module Pods_WikiRandom {
+  umbrella header "Pods-WikiRandom-umbrella.h"
+
+  export *
+  module * { export * }
+}
