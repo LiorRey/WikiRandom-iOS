@@ -1,5 +1,4 @@
 # WikiRandom-iOS
-Trivia game based on Wikipedia. Keep calm and be random!
 
 WikiRandom is a trivia game based on Wikipedia, which aims to enrich the user’s broad knowledge of random subjects in the following way :
 
