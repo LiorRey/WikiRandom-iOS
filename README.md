@@ -25,3 +25,4 @@ Here are some screenshots from WikiRandom:
 
 
 ![wikirandom - ios - screenshot 3](https://user-images.githubusercontent.com/25127522/28496367-a074bf2a-6f71-11e7-9b9d-ad5a64c2924e.png)
+© 2017 Lior Reytan, Aviv Rahamim. All Rights Reserved.
